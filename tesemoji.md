@@ -1,4 +1,126 @@
-   <h2>People</h2>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Emoji cheat sheet for GitHub, Basecamp and other services</title>
+    <meta charset="utf-8">
+    <meta property="og:title" content="Emoji cheat sheet for GitHub, Basecamp and other services">
+    <meta property="og:image" content="https://www.webpagefx.com/tools/emoji-cheat-sheet/graphics/emojis/thumbsup.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.webpagefx.com/tools/emoji-cheat-sheet/">
+    <meta name="description" property="og:description" content="Emoji codes used by GitHub, Basecamp, Slack and other services. Searchable. With emoji meanings.">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz" rel="stylesheet">
+    <link href="style.css?8" rel="stylesheet">
+   <script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-124525-1', 'auto');
+	  ga('send', 'pageview');
+	  
+	</script>
+  </head>
+  <body id="content">
+    <div id="header">
+      <h1>Emoji cheat sheet</h1>
+      <input class="search" placeholder="Instant Search">
+    </div>
+    <div id="flash-test">
+      <embed width="1" height="1" src="ZeroClipboard.swf" play="true" name="flashtest" type="application/x-shockwave-flash">
+    </embed>
+</div>
+
+
+    <p id="description">
+      <a href="http://en.wikipedia.org/wiki/Emoji">Emoji</a> emoticons listed on this page are supported on
+      <a href="http://campfirenow.com/">Campfire</a>,
+      <a href="http://github.com/">GitHub</a>,
+      <a href="http://basecamp.com/">Basecamp</a>,
+      <a href="https://redbooth.com/">Redbooth</a>,
+      <a href="http://trac-hacks.org/wiki/TracEmojiPlugin">Trac</a>,
+      <a href="https://www.flowdock.com/">Flowdock</a>,
+      <a href="https://sprint.ly/">Sprint.ly</a>,
+      <a href="http://kandanapp.com">Kandan</a>,
+      <a href="http://textbox.io/">Textbox.io</a>,
+      <a href="http://kippt.com">Kippt</a>,
+      <a href="https://github.com/tmy/redmine_gemoji">Redmine</a>,
+      <a href="http://about.jabbr.net/">JabbR</a>,
+      <a href="https://trello.com/">Trello</a>,
+      <a href="https://hall.com">Hall</a>,
+      <a href="http://qiita.com/">Qiita</a>,
+      <a href="http://www.zendesk.com/">Zendesk</a>,
+      <a href="http://ruby-china.org/">Ruby China</a>,
+      <a href="https://grove.io/">Grove</a>,
+      <a href="https://idobata.io/">Idobata</a>,
+      <a href="https://nodebb.org/">NodeBB Forums</a>,
+      <a href="https://slack.com/">Slack</a>,
+      <a href="https://streamup.com/">Streamup</a>,
+      <a href="http://organisedminds.com/">OrganisedMinds</a>,
+      <a href="https://hackpad.com/">Hackpad</a>,
+      <a href="https://cryptbin.com/">Cryptbin</a>,
+      <a href="https://kato.im">Kato</a>,
+      <a href="http://reportedly.co">Reportedly</a>,
+      <a href="http://cheerfulghost.com">Cheerful Ghost</a>,
+      <a href="https://www.irccloud.com">IRCCloud</a>,
+      <a href="https://dashcube.com">Dashcube</a>,
+      <a href="http://myvideogamelist.com">MyVideoGameList</a>,
+      <a href="https://subrosa.io">Subrosa</a>,
+      <a href="https://www.sococo.com">Sococo</a>,
+      <a href="https://quip.com">Quip</a>,
+      <a href="https://andbang.com">And Bang</a>,
+      <a href="https://bonus.ly">Bonusly</a>,
+      <a href="https://discourse.org">Discourse</a>,
+      <a href="https://ello.co">Ello</a>,
+      <a href="http://ellekasai.github.io/twemoji-awesome/">Twemoji Awesome</a>,
+      <a href="http://gotchosen.com">Got Chosen</a>,
+      <a href="https://www.getflow.com">Flow</a>,
+      <a href="https://readme.io">ReadMe.io</a>,
+      <a href="https://esa.io">esa</a>,
+      <a href="https://www.DBook.org">DBook</a>,
+      <a href="https://groups.io">Groups.io</a>,
+      <a href="https://www.teamwork.com/chat">TeamworkChat</a>,
+      <a href="https://www.bugtrack.in">Damn Bugs</a>,
+      <a href="https://sdelements.github.io/lets-chat">Let's Chat</a>,
+      <a href="https://buildkite.com">Buildkite</a>,
+      <a href="https://chatgrape.com/">ChatGrape</a>,
+      <a href="https://github.com/squarefractal/githubemoji-dokuwiki">Dokuwiki</a>,
+      <a href="https://usersnap.com">Usersnap</a>,
+      <a href="https://discordapp.com/">Discord</a>,
+      <a href="https://statushero.com/">Status Hero</a>,
+      <a href="http://morfy.org/">Morfy</a>,
+      <a href="https://bitbucket.org/">Bitbucket</a>,
+      <a href="https://gitter.im/">Gitter</a>,
+      <a href="http://datenstrom.se/yellow/">Yellow</a>,
+      <a href="https://youtube.com">YouTube</a>,
+      <a href="https://habitica.com">Habitica</a>
+      and <a href="http://www.mattermost.org/">Mattermost</a>
+    </p>
+
+    <p>
+      However some of the emoji codes are not super easy to remember, <em>so here is a little cheat sheet</em>.<br>
+      ✈ <b>Got a modern browser or Flash enabled? Click the emoji code and it will be copied to your clipboard.</b>
+    </p>
+
+    <div id="share">
+      <div>
+        <iframe src="https://ghbtns.com/github-btn.html?user=WebpageFX&amp;repo=emoji-cheat-sheet.com&amp;type=fork&amp;count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
+      </div>
+      <div>
+        <iframe src="https://ghbtns.com/github-btn.html?user=WebpageFX&amp;repo=emoji-cheat-sheet.com&amp;type=star&amp;count=true" frameborder="0" scrolling="0" width="106px" height="20px"></iframe>
+      </div>
+      <div>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.emoji-cheat-sheet.com/" data-count="horizontal">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+</div>
+      <div><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.emoji-cheat-sheet.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true" height="20" width="100"></iframe></div>
+      <div><div class="g-plusone" data-size="medium" data-href="http://www.emoji-cheat-sheet.com/"></div></div>
+    </div>
+
+    <h2>People</h2>
     <ul class="people emojis" id="emoji-people">
       <li><div>
 <span id="e_1" class="emoji" data-src="graphics/emojis/bowtie.png"></span>:<span class="name" data-alternative-name="classy, bow, face, formal, fashion, suit, magic, circus">bowtie</span>:</div></li>
@@ -1818,3 +1940,16 @@
       <li><div data-sound="flawless">/play flawless</div></li>
       <li><div data-sound="butts">/play butts</div></li>
     </ul>
+	<h3>Emojis and social media</h3>
+	<p>Emojis enhance just about any <a href="https://www.webpagefx.com/website-user-experience-analysis.htm">user experience</a>. They always have a place, from casual social media use to top level <a href="https://www.webpagefx.com/Internet-Marketing-Strategy.html">inbound marketing</a> strategies.</p>
+	<p>It doesn't matter if you're part of a <a href="https://www.webpagefx.com/social-media-design.html">design</a> team communicating with a different department, a social media manager for your business, or anything in between. Emojis help convey tone and intent, both of which are frequently lost in translation when communicating online.</p>
+	<p>There are now entire generations that grew up and are growing up with emojis as a given. Emojis are no longer stylistic extras that you can ignore, but instead are an integral part of how many online users communicate every single day. Spend a few minutes clicking around Facebook or <a href="https://www.webpagefx.com/social-media/benefits-of-twitter-for-business.html">Twitter</a> if you're still skeptical! You won't be able to scroll more than a page without seeing emojis aplenty.</p>
+	<p>So next time you're considering a <a href="https://www.webpagefx.com/Social-Media-Pricing.html">social media</a> overhaul or searching for a brand new angle with your online marketing campaigns, find the perfect emoji here on our emoji cheat sheet!</p>
+    <div id="footer">
+		<center><p>Emoji Cheat Sheet - <a href="https://www.webpagefx.com">WebpageFX 2016</a></p></center>
+    </div>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="zero-clipboard.min.js"></script>
+    <script src="script.js?7"></script>
+  </body>
+</html>
